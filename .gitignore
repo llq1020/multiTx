@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings
+target
+*.iml
+.springBeans
+.myumldata
+.idea
+.idea/*.xml
+.DS_Store
+~/
+/logs
+*.lock
+*.file
+*.log
